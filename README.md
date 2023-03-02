@@ -27,3 +27,6 @@ const twitch_token = ''; //광고 제거를 위해 토큰을 입력
 
 
 ![076](https://user-images.githubusercontent.com/126817745/222532986-795deed4-0628-4a86-ab6a-6d56357a16e1.png)
+
+
+프로세스 과다를 피하기 위해 동시 녹화 가능한 쓰레딩을 3개로 제한 했습니다, 수정을 원할시 Semaphore 를 원하는 number로 변경
