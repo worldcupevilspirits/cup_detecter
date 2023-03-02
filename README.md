@@ -30,3 +30,8 @@ const twitch_token = ''; //광고 제거를 위해 토큰을 입력
 
 
 프로세스 과다를 피하기 위해 동시 녹화 가능한 쓰레딩을 3개로 제한 했습니다, 수정을 원할시 Semaphore 를 원하는 number로 변경
+
+recorder.js 에서 수정
+
+![image](https://user-images.githubusercontent.com/126817745/222533635-92428ded-57a8-49ef-8195-936a97bbb512.png)
+
