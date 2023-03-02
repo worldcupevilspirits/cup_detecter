@@ -24,3 +24,5 @@ recording.js 의 5번 라인에 본인의 토큰을 입력  // 트위치 로그�
 
 const twitch_token = ''; //광고 제거를 위해 토큰을 입력
 
+
+![076](https://user-images.githubusercontent.com/126817745/222532986-795deed4-0628-4a86-ab6a-6d56357a16e1.png)
