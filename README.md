@@ -5,6 +5,8 @@
 
 # 실행방법
 
+node recorder.js
+
 # 1
 
 channelWorker.js 의 8,9번 라인에 본인의 CLIENT_ID, CLIENT_SECRET 입력.
