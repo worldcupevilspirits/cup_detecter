@@ -18,6 +18,7 @@ node recorder.js
 channelWorker.js 의 8,9번 라인에 본인의 CLIENT_ID, CLIENT_SECRET 입력.
 
 const CLIENT_ID = ''; //클라이언트 입력 https://dev.twitch.tv/console/apps/create
+
 const CLIENT_SECRET = ''; //클라이언트 비번 입력
 
 recording.js 의 5번 라인에 본인의 토큰을 입력  // 트위치 로그인 후 메인페이지에서 f12로 콘솔창을 연 후 cookies['auth-token'] 입력
